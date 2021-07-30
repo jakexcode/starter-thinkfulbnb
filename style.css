@@ -275,6 +275,9 @@ footer p {
     font-size: 12px;
   }
 
+  .host-p > p {
+    text-align: center;
+  }
 
   }
 
